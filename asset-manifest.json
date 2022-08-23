@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aa3a7e6e.css",
+    "main.js": "/static/js/main.6a9ab232.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/kb.jpg": "/static/media/kb.95ad652be6b1ef629525.jpg",
+    "static/media/tww.jpeg": "/static/media/tww.22b04fd3b1899f130df1.jpeg",
+    "static/media/bitcoin.webp": "/static/media/bitcoin.10f5f9235fe4bd91017e.webp",
+    "static/media/chayka.webp": "/static/media/chayka.b9824cf2b4cd07a80cb6.webp",
+    "static/media/Blockchain-Explained.webp": "/static/media/Blockchain-Explained.8df9b194c691f0b9714f.webp",
+    "static/media/nf.png": "/static/media/nf.fdb1d795a5b4c3ba695d.png",
+    "static/media/impp.webp": "/static/media/impp.5793867181840102f3be.webp",
+    "static/media/blockchain.webp": "/static/media/blockchain.84f67f19d3762edc5eb9.webp",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.aa3a7e6e.css.map": "/static/css/main.aa3a7e6e.css.map",
+    "main.6a9ab232.js.map": "/static/js/main.6a9ab232.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa3a7e6e.css",
+    "static/js/main.6a9ab232.js"
+  ]
+}
